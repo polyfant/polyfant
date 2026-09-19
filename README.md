@@ -1,4 +1,4 @@
-# polyfant
+# Jonas
 
 Fullstack developer in Sweden. I build production software for the horse industry — typed end to end, tested before it ships, deployed through CI.
 
